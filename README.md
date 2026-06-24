@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Mansi%20%F0%9F%91%8B&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Blockchain%20Developer%20%7C%20Web3%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18" />
 </div>
@@ -28,11 +27,11 @@
 
 ## 🚀 About Me
 
-🎓 CS Student at **Gautam Buddha University**, Greater Noida  
-⛓️ Passionate about **Blockchain, Web3 & DeFi**  
-🌱 Currently building **BountyMesh** on Casper Network  
-🔭 Contributing to **Open Source** (GSoC aspirant)  
-💡 Love building at **Hackathons**  
+🎓 B.Tech Student at **ABES Engineering College**, Ghaziabad
+⛓️ Passionate about **Blockchain, Web3 & DeFi**
+🌱 Currently building **BountyMesh** on Casper Network
+🔭 Contributing to **Open Source**
+💡 Love building at **Hackathons**
 📍 Based in **India**
 
 ---
@@ -66,6 +65,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🤝 **Synergi** | Decentralized AI agent labor marketplace on Stacks/Bitcoin | TypeScript, x402, Stacks |
 | 🔒 **PrivateBounty AI** | Local-first AI GitHub issue analyzer | QVAC SDK, Next.js |
 | 🕸️ **BountyMesh** | Autonomous AI agent bounty marketplace | Casper, Rust, Claude API |
 | 🤖 **OrchestrAI** | Multi-agent business orchestrator | Next.js, Groq SDK |
@@ -99,17 +99,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
-<!--
-**Mansi2007275/Mansi2007275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
