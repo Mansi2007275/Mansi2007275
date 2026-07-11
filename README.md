@@ -92,7 +92,7 @@
 - 🔨 Building **BountyMesh** for Casper Agentic Buildathon
 - 🌿 Contributing to **openmainframeproject/software-discovery-tool**
 - 📚 Learning **Rust & Odra smart contracts**
-- 🎯 Targeting **GSoC 2026**
+-learning and exploring 
 
 ---
 
