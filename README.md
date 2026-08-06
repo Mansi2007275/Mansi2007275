@@ -29,10 +29,7 @@
 
 🎓 B.Tech Student at **ABES Engineering College**, Ghaziabad
 ⛓️ Passionate about **Blockchain, Web3 & DeFi**
-🌱 Currently building **BountyMesh** on Casper Network
-🔭 Contributing to **Open Source**
-💡 Love building at **Hackathons**
-📍 Based in **India**
+
 
 ---
 
@@ -61,41 +58,12 @@
 
 ---
 
-## 🏆 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤝 **Synergi** | Decentralized AI agent labor marketplace on Stacks/Bitcoin | TypeScript, x402, Stacks |
-| 🔒 **PrivateBounty AI** | Local-first AI GitHub issue analyzer | QVAC SDK, Next.js |
-| 🕸️ **BountyMesh** | Autonomous AI agent bounty marketplace | Casper, Rust, Claude API |
-| 🤖 **OrchestrAI** | Multi-agent business orchestrator | Next.js, Groq SDK |
-| 💰 **EarnLab** | Decentralized bounty payout dApp | Foundry, Solidity, Next.js |
-| 🧠 **MantleAI** | AI assistant for Mantle Network | Next.js, Solidity |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansi2007275&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi2007275&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Mansi2007275&theme=radical&hide_border=true&background=0D1117" width="60%" />
 </div>
 
 ---
 
-## 🎯 Currently
 
-- 🔨 Building **BountyMesh** for Casper Agentic Buildathon
-- 🌿 Contributing to **openmainframeproject/software-discovery-tool**
-- 📚 Learning **Rust & Odra smart contracts**
--learning and exploring 
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
